@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "name": "Audi 250",
+      "price": "500007",
+      "owner": "admiralty20",
+      "last_bidder": "waleed"
+    },
+    {
+      "name": "Lamborghini S50",
+      "price": "200000",
+      "owner": "susaske40",
+      "last_bidder": "geraldt01"
+    },
+    {
+      "name": "Ferrari F560",
+      "price": "1002321312",
+      "owner": "samson35",
+      "last_bidder": "waleed"
+    },
+    {
+      "name": "Toyota Aygo 2022",
+      "price": "2000234",
+      "owner": "haroon",
+      "last_bidder": "waleed"
+    },
+    {
+      "name": "KIA Sportage",
+      "price": "2300055",
+      "owner": "waleed",
+      "last_bidder": "waleed"
+    },
+    {
+      "name": "Laravel",
+      "price": "1232112323",
+      "owner": "waleed",
+      "last_bidder": "waleed"
+    },
+    {
+      "name": "Vuejs",
+      "price": "12312322222",
+      "owner": "haroon",
+      "last_bidder": "Waleed Ahmad"
+    },
+    {
+      "name": "picanto",
+      "price": "213123",
+      "owner": "Waleed Ahmad"
+    },
+    {
+      "name": "WordPress",
+      "price": "66",
+      "owner": "haroon",
+      "last_bidder": "haroon"
+    },
+    {
+      "name": "Laravel1123",
+      "price": "48",
+      "owner": "waleed"
+    }
+  ]
+}
